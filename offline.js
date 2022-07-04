@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1656950452,
+	"version": 1656950985,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,6 +36,7 @@
 		"images/instagramlitetween_b-sheet0.png",
 		"images/telegram_b-sheet0.png",
 		"images/instagram_b-sheet0.png",
+		"images/personalityicon-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
